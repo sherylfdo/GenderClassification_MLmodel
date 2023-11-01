@@ -1,6 +1,11 @@
 # GenderClassification_MLmodel
+
+This model is built to predict the gender based on the other features. 
+This is a twitter dataset.
+
 The csv file is read with the help of pandas library and stored in the Dataframe df. 
 With the help of functions like df.describe(), df.corr() and visual data representation using seaborn library (heatmap function), We can compare and eliminate the unnecessary column data. 
+
 
 After Preprocessing
 
